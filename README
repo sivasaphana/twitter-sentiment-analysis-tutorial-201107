@@ -58,6 +58,10 @@ or it with setwd()
 
     This script caches your collected tweets to the data/ directory, so you 
     only need to run this step once.
+    
+    
+    
+    
 
 	
 3.  Load the Twitter data, opinion lexicon, and ACSI results from disk:
